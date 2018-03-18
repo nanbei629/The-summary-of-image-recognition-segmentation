@@ -1,4 +1,4 @@
-![background](img\background.jpg)
+![background](https://github.com/nanbei629/The-summary-of-image-recognition-segmentation/blob/master/img/background.jpg?raw=true)
 
 
 
